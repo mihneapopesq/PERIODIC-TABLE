@@ -1,5 +1,7 @@
 # Mendeleeves Table
 
+This is one of my first projects made in C# during my time in highschool.
+
 Mendeleeves Table is a simple interactive periodic table application built with C#. 
 It allows users to double-click on an element from the periodic table, and it will automatically open the element's Wikipedia page in your default web browser. 
 
